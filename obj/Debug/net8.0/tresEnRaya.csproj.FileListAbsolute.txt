@@ -1,0 +1,14 @@
+C:\Users\HP\Downloads\examen\tresEnRaya\bin\Debug\net8.0\tresEnRaya.exe
+C:\Users\HP\Downloads\examen\tresEnRaya\bin\Debug\net8.0\tresEnRaya.deps.json
+C:\Users\HP\Downloads\examen\tresEnRaya\bin\Debug\net8.0\tresEnRaya.runtimeconfig.json
+C:\Users\HP\Downloads\examen\tresEnRaya\bin\Debug\net8.0\tresEnRaya.dll
+C:\Users\HP\Downloads\examen\tresEnRaya\bin\Debug\net8.0\tresEnRaya.pdb
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\tresEnRaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\tresEnRaya.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\tresEnRaya.AssemblyInfo.cs
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\tresEnRaya.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\tresEnRaya.dll
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\refint\tresEnRaya.dll
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\tresEnRaya.pdb
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\tresEnRaya.genruntimeconfig.cache
+C:\Users\HP\Downloads\examen\tresEnRaya\obj\Debug\net8.0\ref\tresEnRaya.dll
